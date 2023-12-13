@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I'm finding my interest by trying new things
-💬 Feel free to give some suggestions
+- 🔭 I'm finding my interest by trying new things
+- 💬 Feel free to give some suggestions
 
 <!--
 **DennieDan/DennieDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
