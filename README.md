@@ -1,6 +1,7 @@
-### Hi there 👋
-
-- 🔭 I'm interested in Database Management, Software Engineering and Cybersecurity.
+# Hi I am Dan! 👋
+I am a 
+💻 Software Engineer, and an
+🛼 Inline Skater
 
 <!--
 **DennieDan/DennieDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
