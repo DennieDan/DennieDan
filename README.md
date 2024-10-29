@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm finding my interest by trying new things
-- 💬 Feel free to give some suggestions
+- 🔭 I'm interested in Database Management, Software Engineering and Cybersecurity.
 
 <!--
 **DennieDan/DennieDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
