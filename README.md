@@ -15,6 +15,8 @@ I am a
 
 # 🎯 Relevant Projects:
 
+- [Autonomous Regulatory Auditor](https://github.com/DennieDan/classifier-agent): An RAG agent with knowledge base of STCCED, assisting classify an item to a corresponding trading HS-Code.
+
 - [Data Analyzer](https://github.com/DennieDan/data-app): An AI-assisted data reading and summarizing. It answers your questions related to data and draw graphs.
 
 - [Hospital Management System](https://github.com/DennieDan/Hospital_Mangement_System-OracleApex): A low-code database management system for a hospital.
