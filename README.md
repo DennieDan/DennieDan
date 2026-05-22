@@ -6,6 +6,7 @@ I am a
 
 ## 🌐 Socials:
 
+[![My Corner](https://img.shields.io/badge/My%20Corner-a339db)](https://personal.app.dandinh.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dandinh-dennie/)
 
 # 💻 Tech Stack:
